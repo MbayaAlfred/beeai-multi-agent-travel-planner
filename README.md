@@ -170,21 +170,19 @@ The lab execution demonstrated permission prompts, agent handoffs, tool use, and
 
 ### Agent execution
 
-![BeeAI agent execution in terminal](assets/agent-execution.png)
+![BeeAI agent execution in terminal](agent-execution.png)
 
 ### Human approval of agent handoffs
 
-![Human-in-the-loop permission prompt](assets/permission-approval.png)
+![Human-in-the-loop permission prompt](ermission-approval.png)
 
 ### Weather tool execution
 
-![OpenMeteo weather tool output](assets/weather-tool.png)
+![OpenMeteo weather tool output](weather-tool.png)
 
 ### Generated travel plan
 
-![Final Japan travel plan in terminal](assets/final-travel-plan.png)
-
-> These image paths assume the screenshots were uploaded to the `assets/` directory with the filenames shown above. Adjust filenames if your repository uses different names.
+![Final Japan travel plan in terminal](final-travel-plan.png)
 
 ## 📂 Project Structure
 
