@@ -123,7 +123,7 @@ result = await travel_coordinator.run(query)
 print(f"\n📋 Comprehensive Travel Plan:\n{result.answer.text}")
 ```
 
-## 🔐 Human-in-the-Loop Approval
+##  Human-in-the-Loop Approval
 
 The coordinator requires user approval for each named specialist handoff:
 
@@ -174,7 +174,7 @@ The lab execution demonstrated permission prompts, agent handoffs, tool use, and
 
 ### Human approval of agent handoffs
 
-![Human-in-the-loop permission prompt](ermission-approval.png)
+![Human-in-the-loop permission prompt](permission-approval.png)
 
 ### Weather tool execution
 
